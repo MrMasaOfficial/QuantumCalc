@@ -24,8 +24,3 @@
 
 - **Language**:  
   - English interface (all buttons and labels).  
-
----
-
-```bash
-git clone https://github.com/yourusername/QuantumCalc.git
