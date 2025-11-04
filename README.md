@@ -1,3 +1,4 @@
+![QuantumCalc Screenshot](https://a.top4top.io/p_35956g8871.jpeg)
 # QuantumCalc
 
 **QuantumCalc** is a modern, dynamic, and fully interactive scientific calculator built with **Python** and **PyQt6**. It is designed for users who want a powerful, visually appealing calculator for both basic and advanced mathematical operations.
